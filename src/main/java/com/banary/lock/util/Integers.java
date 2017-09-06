@@ -1,4 +1,4 @@
-package com.canary.lock.util;
+package com.banary.lock.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.canary.lock.util;
+package com.banary.lock.util;
 
 /**
  * Created by xiyongchun on 2017/8/13.
